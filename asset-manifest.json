@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/karaoke-list/static/css/main.edb84bd3.chunk.css",
+    "main.css": "/karaoke-list/static/css/main.7540586c.chunk.css",
     "main.js": "/karaoke-list/static/js/main.3ff569c8.chunk.js",
     "main.js.map": "/karaoke-list/static/js/main.3ff569c8.chunk.js.map",
     "runtime-main.js": "/karaoke-list/static/js/runtime-main.2df580cc.js",
@@ -10,14 +10,14 @@
     "static/js/3.e9302e35.chunk.js": "/karaoke-list/static/js/3.e9302e35.chunk.js",
     "static/js/3.e9302e35.chunk.js.map": "/karaoke-list/static/js/3.e9302e35.chunk.js.map",
     "index.html": "/karaoke-list/index.html",
-    "static/css/main.edb84bd3.chunk.css.map": "/karaoke-list/static/css/main.edb84bd3.chunk.css.map",
+    "static/css/main.7540586c.chunk.css.map": "/karaoke-list/static/css/main.7540586c.chunk.css.map",
     "static/js/2.89edaef8.chunk.js.LICENSE.txt": "/karaoke-list/static/js/2.89edaef8.chunk.js.LICENSE.txt",
     "static/media/The Bluezer.310f56a1.jpeg": "/karaoke-list/static/media/The Bluezer.310f56a1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.2df580cc.js",
     "static/js/2.89edaef8.chunk.js",
-    "static/css/main.edb84bd3.chunk.css",
+    "static/css/main.7540586c.chunk.css",
     "static/js/main.3ff569c8.chunk.js"
   ]
 }
