@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/karaoke-list/static/css/main.8438f337.chunk.css",
-    "main.js": "/karaoke-list/static/js/main.2fef918e.chunk.js",
-    "main.js.map": "/karaoke-list/static/js/main.2fef918e.chunk.js.map",
-    "runtime-main.js": "/karaoke-list/static/js/runtime-main.12e304ce.js",
-    "runtime-main.js.map": "/karaoke-list/static/js/runtime-main.12e304ce.js.map",
-    "static/js/2.97036f41.chunk.js": "/karaoke-list/static/js/2.97036f41.chunk.js",
-    "static/js/2.97036f41.chunk.js.map": "/karaoke-list/static/js/2.97036f41.chunk.js.map",
-    "static/js/3.2f1378f9.chunk.js": "/karaoke-list/static/js/3.2f1378f9.chunk.js",
-    "static/js/3.2f1378f9.chunk.js.map": "/karaoke-list/static/js/3.2f1378f9.chunk.js.map",
+    "main.css": "/karaoke-list/static/css/main.6436d06c.chunk.css",
+    "main.js": "/karaoke-list/static/js/main.d3d956ac.chunk.js",
+    "main.js.map": "/karaoke-list/static/js/main.d3d956ac.chunk.js.map",
+    "runtime-main.js": "/karaoke-list/static/js/runtime-main.6ae848f9.js",
+    "runtime-main.js.map": "/karaoke-list/static/js/runtime-main.6ae848f9.js.map",
+    "static/js/2.71cfaad1.chunk.js": "/karaoke-list/static/js/2.71cfaad1.chunk.js",
+    "static/js/2.71cfaad1.chunk.js.map": "/karaoke-list/static/js/2.71cfaad1.chunk.js.map",
+    "static/js/3.7e2f9a9a.chunk.js": "/karaoke-list/static/js/3.7e2f9a9a.chunk.js",
+    "static/js/3.7e2f9a9a.chunk.js.map": "/karaoke-list/static/js/3.7e2f9a9a.chunk.js.map",
     "index.html": "/karaoke-list/index.html",
-    "static/css/main.8438f337.chunk.css.map": "/karaoke-list/static/css/main.8438f337.chunk.css.map",
-    "static/js/2.97036f41.chunk.js.LICENSE.txt": "/karaoke-list/static/js/2.97036f41.chunk.js.LICENSE.txt",
+    "static/css/main.6436d06c.chunk.css.map": "/karaoke-list/static/css/main.6436d06c.chunk.css.map",
+    "static/js/2.71cfaad1.chunk.js.LICENSE.txt": "/karaoke-list/static/js/2.71cfaad1.chunk.js.LICENSE.txt",
     "static/media/The Bluezer.310f56a1.jpeg": "/karaoke-list/static/media/The Bluezer.310f56a1.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12e304ce.js",
-    "static/js/2.97036f41.chunk.js",
-    "static/css/main.8438f337.chunk.css",
-    "static/js/main.2fef918e.chunk.js"
+    "static/js/runtime-main.6ae848f9.js",
+    "static/js/2.71cfaad1.chunk.js",
+    "static/css/main.6436d06c.chunk.css",
+    "static/js/main.d3d956ac.chunk.js"
   ]
 }
