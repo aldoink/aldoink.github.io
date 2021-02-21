@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/karaoke-list/static/css/main.66d91b72.chunk.css",
+    "main.css": "/karaoke-list/static/css/main.5a1b335e.chunk.css",
     "main.js": "/karaoke-list/static/js/main.44848755.chunk.js",
     "main.js.map": "/karaoke-list/static/js/main.44848755.chunk.js.map",
     "runtime-main.js": "/karaoke-list/static/js/runtime-main.6ae848f9.js",
@@ -10,7 +10,7 @@
     "static/js/3.7e2f9a9a.chunk.js": "/karaoke-list/static/js/3.7e2f9a9a.chunk.js",
     "static/js/3.7e2f9a9a.chunk.js.map": "/karaoke-list/static/js/3.7e2f9a9a.chunk.js.map",
     "index.html": "/karaoke-list/index.html",
-    "static/css/main.66d91b72.chunk.css.map": "/karaoke-list/static/css/main.66d91b72.chunk.css.map",
+    "static/css/main.5a1b335e.chunk.css.map": "/karaoke-list/static/css/main.5a1b335e.chunk.css.map",
     "static/js/2.71cfaad1.chunk.js.LICENSE.txt": "/karaoke-list/static/js/2.71cfaad1.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/karaoke-list/static/media/Gilroy-Light.922057a1.woff",
     "static/media/The Bluezer.310f56a1.jpeg": "/karaoke-list/static/media/The Bluezer.310f56a1.jpeg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.6ae848f9.js",
     "static/js/2.71cfaad1.chunk.js",
-    "static/css/main.66d91b72.chunk.css",
+    "static/css/main.5a1b335e.chunk.css",
     "static/js/main.44848755.chunk.js"
   ]
 }
